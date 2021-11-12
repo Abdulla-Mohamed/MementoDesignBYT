@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoDesignBYT", "MementoDesignBYT\MementoDesignBYT.csproj", "{6EA0521F-F5AD-44DA-9C63-50CADC3143AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA0521F-F5AD-44DA-9C63-50CADC3143AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA0521F-F5AD-44DA-9C63-50CADC3143AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA0521F-F5AD-44DA-9C63-50CADC3143AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA0521F-F5AD-44DA-9C63-50CADC3143AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97625FFF-2658-4A34-81BB-F9C0AD26EA60}
+	EndGlobalSection
+EndGlobal
